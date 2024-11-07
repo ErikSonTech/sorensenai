@@ -1,0 +1,824 @@
+1
+00:00:00,031 --> 00:00:13,256
+Ja tenim el futur, però un futur que ja és present, perquè hem de parlar de noves tecnologies, de la intel·ligència artificial i avui el nostre company, el Xavi Vinaixa, ve una mica filòsof, diria, no?
+
+2
+00:00:13,296 --> 00:00:16,037
+Perquè avui parlem d'intel·ligència artificial, Xavi, i art.
+
+3
+00:00:16,117 --> 00:00:16,677
+I art.
+
+4
+00:00:16,697 --> 00:00:17,097
+I art.
+
+5
+00:00:17,157 --> 00:00:24,280
+I en motiu, suposo, en part d'aquesta exposició, d'aquesta mostra que vam anar a visitar-vos la setmana passada a Tiana.
+
+6
+00:00:24,340 --> 00:00:26,401
+Com parlem d'art, perquè tu vols començar parlant d'art.
+
+7
+00:00:26,761 --> 00:00:28,383
+D'art en general, una mica.
+
+8
+00:00:28,683 --> 00:00:33,007
+Per tant, de música, d'escultura... De qualsevol cosa que sigui art.
+
+9
+00:00:33,047 --> 00:00:34,449
+Doncs tu mateix, per on vols començar?
+
+10
+00:00:34,509 --> 00:00:38,613
+Perquè avui parlem de com la intel·ligència artificial s'acaba aplicant a l'art.
+
+11
+00:00:38,693 --> 00:00:46,621
+Sí, primer començarem parlant d'art barrejat amb computació, que no necessàriament és intel·ligència artificial, però al final va tot lligat.
+
+12
+00:00:46,701 --> 00:00:50,505
+Llavors, per exemple, he portat unes quantes coses que a mi m'han agradat.
+
+13
+00:00:51,162 --> 00:00:58,663
+I la primera és art generatiu de l'artista badaloní Daniel Julià, que a mi ja sabeu que m'agrada escombrar cap a casa.
+
+14
+00:00:59,768 --> 00:01:02,489
+I l'obra del Daniel, que si la podem veure.
+
+15
+00:01:02,529 --> 00:01:05,291
+Sí, espera, perquè hem saltat ja moltes imatges.
+
+16
+00:01:05,371 --> 00:01:07,352
+Ah, bueno.
+
+17
+00:01:07,392 --> 00:01:09,193
+No, perquè com no sabia si tenia temps.
+
+18
+00:01:09,233 --> 00:01:11,074
+No, sí, tranquil.
+
+19
+00:01:11,094 --> 00:01:13,175
+No podem ser tan ràpids perquè trem un guió per seguir.
+
+20
+00:01:13,215 --> 00:01:17,718
+Daniel Julià, que és un artista de Badalona que fa art generatiu.
+
+21
+00:01:17,818 --> 00:01:22,900
+Sí, fa art generatiu i, bueno, la part... Mira, és això que estem veient.
+
+22
+00:01:22,960 --> 00:01:23,321
+Sí, és això.
+
+23
+00:01:24,001 --> 00:01:25,662
+I podeu anar-les passant.
+
+24
+00:01:25,682 --> 00:01:26,682
+Sí, això mateix.
+
+25
+00:01:26,742 --> 00:01:36,987
+No ho fa amb intel·ligència artificial, sinó que ho fa amb algoritmes que ell mateix fa, sense grans llibreries extenses, perquè ja sabeu que això d'informàtica, quan programes, va amb llibreries.
+
+26
+00:01:37,027 --> 00:01:40,228
+Aquí és com tot molt bàsic, però amb moltes hores.
+
+27
+00:01:40,288 --> 00:01:44,990
+I la gràcia d'això és que no com amb la intel·ligència artificial, que necessitem grans màquines.
+
+28
+00:01:45,685 --> 00:01:49,708
+amb molta capacitat de procés, això ell ho fa amb un navegador web.
+
+29
+00:01:49,728 --> 00:01:49,828
+Què?
+
+30
+00:01:49,888 --> 00:01:50,448
+Això ho vull saber.
+
+31
+00:01:50,488 --> 00:01:53,290
+Què vol dir artes generatiu o artista generatiu?
+
+32
+00:01:53,770 --> 00:01:56,592
+Dius que no és intel·ligència artificial, però ho fa amb un ordinador.
+
+33
+00:01:56,632 --> 00:02:03,496
+Ho fa amb un ordinador, fa algoritmes, fa algoritmes que pinten aquestes coses.
+
+34
+00:02:03,536 --> 00:02:14,804
+Llavors el que passa és que va jugant amb l'algoritme, al final, bueno, és matemàtica, són funcions matemàtiques, juga, no sé, comença a escriure i li surt una ratlla així, i diu, no, ara vull que em giri una mica, i comença...
+
+35
+00:02:15,588 --> 00:02:20,172
+Va jugant amb el codi i va iterant fins que li surt un resultat que a ell li agrada.
+
+36
+00:02:20,192 --> 00:02:29,040
+Això es pot adquirir mitjançant els NFTs, que ja segur que és una cosa que sona molt.
+
+37
+00:02:30,181 --> 00:02:34,444
+L'NFT seria com un contracte d'autenticitat de l'obra digital.
+
+38
+00:02:35,332 --> 00:02:37,172
+Això va haver un temps que estava molt de moda, no?
+
+39
+00:02:37,312 --> 00:02:40,013
+Sí, semblava que havia de ser un negoci a l'alça, però es veu que s'ha quedat en res.
+
+40
+00:02:40,253 --> 00:02:41,553
+I tampoc ho vaig entendre mai.
+
+41
+00:02:41,613 --> 00:02:46,535
+Es veu que hi ha gent que comprova milions per tenir això en un format digital, ni tan sols per penjar-t'ho a la paret.
+
+42
+00:02:46,635 --> 00:02:52,156
+Sí, però tens la propietat d'allò i això es mou molt.
+
+43
+00:02:52,196 --> 00:02:56,317
+La gent que té bitcoins i tal, compra art així.
+
+44
+00:02:56,357 --> 00:02:57,937
+Hi ha moltes plataformes.
+
+45
+00:02:57,977 --> 00:03:03,479
+El de l'Inex les té pujades a una que es diu fxhash.xyz.
+
+46
+00:03:03,539 --> 00:03:04,899
+Allà es poden veure, es poden visitar.
+
+47
+00:03:05,622 --> 00:03:10,245
+i es poden comprar, i compres l'única, i només la pots comprar tu.
+
+48
+00:03:10,305 --> 00:03:15,148
+I en NFT és un token, que és el certificat, que diu que és teu.
+
+49
+00:03:15,208 --> 00:03:17,129
+Després tu això ho pots vendre, també, si vols.
+
+50
+00:03:17,149 --> 00:03:23,033
+Tot això que esteu veient és art creat per aquest artiste de Batalona, que per si jo no el coneixia, Daniel Julià, però que fa aquestes coses.
+
+51
+00:03:23,193 --> 00:03:27,035
+Bé, cal destacar també que dins de l'art generatiu hi ha una comunitat.
+
+52
+00:03:27,577 --> 00:03:36,480
+bastant gran, i al matí és molt típic anar al Twitter i fan el Good Morning, que és el GM, i pengen obres.
+
+53
+00:03:36,520 --> 00:03:41,901
+Llavors tu vas allà al Twitter, busques GM i veuràs tot d'obres, d'artistes, que es diuen Bon Dia Així.
+
+54
+00:03:41,981 --> 00:03:43,302
+Xavi, això que estem veient què és?
+
+55
+00:03:43,362 --> 00:03:47,303
+Això és un programa que ha creat ell mateix, amb un navegador també, on els paràmetres es poden jugar.
+
+56
+00:03:47,323 --> 00:03:48,243
+Encara no l'ha publicat,
+
+57
+00:03:48,755 --> 00:03:50,175
+És guai això, trobo.
+
+58
+00:03:50,235 --> 00:03:53,417
+Sí, bueno, així al final és com es genera, no?
+
+59
+00:03:53,457 --> 00:03:57,178
+Ell té uns algoritmes amb uns paràmetres, jugant amb els paràmetres treu la obra.
+
+60
+00:03:57,218 --> 00:04:02,019
+Que això no és intel·ligència artificial, perquè és un programa que ja ha creat per... Sí, sí, són algoritmes.
+
+61
+00:04:02,039 --> 00:04:05,441
+Són algoritmes, sí, tu dius així, són algoritmes, com si amb això ja em quedés més tranquil.
+
+62
+00:04:05,461 --> 00:04:06,561
+Bueno, és com una suma, no?
+
+63
+00:04:06,581 --> 00:04:06,861
+3 més 4...
+
+64
+00:04:10,186 --> 00:04:11,347
+doncs és 7, no?
+
+65
+00:04:11,527 --> 00:04:13,729
+Si canvies el 3 i el 4 i li poses un 5, és 8.
+
+66
+00:04:14,429 --> 00:04:17,151
+Això seria un algoritme.
+
+67
+00:04:17,191 --> 00:04:19,293
+Avui has parlat també de Josep Maria Mestres.
+
+68
+00:04:19,353 --> 00:04:29,600
+Clar, no podem deixar de parlar d'art computacional sense parlar de Mestres Quadreny, que és un dels grans de l'art computacional.
+
+69
+00:04:29,640 --> 00:04:30,241
+Ell era músic.
+
+70
+00:04:31,111 --> 00:04:37,153
+I va ser dels primers a fer, a composar música per ordinador.
+
+71
+00:04:37,233 --> 00:04:39,954
+Jo diria que de l'estat espanyol o potser d'Europa.
+
+72
+00:04:40,014 --> 00:04:42,014
+Música per ordinador cantarem.
+
+73
+00:04:42,074 --> 00:04:45,516
+Bueno, composar, fer música amb ordinador.
+
+74
+00:04:45,556 --> 00:04:50,837
+Doncs com ara que es fa tot amb l'ordinador, ell va ser el primer a fer una composició amb un ordinador, fer-la sonar.
+
+75
+00:04:50,977 --> 00:04:53,978
+En comptes d'instruments, fer-la sonar amb un ordinador.
+
+76
+00:04:54,018 --> 00:04:58,980
+I ell, bueno, seguia una mica el concepte aquest d'ambrosa, de poesia visual.
+
+77
+00:05:00,271 --> 00:05:10,677
+I la seva obra musical la tractava com una obra plàstica.
+
+78
+00:05:10,697 --> 00:05:16,520
+I vaig anar a una exposició al CCB i vaig veure una obra seva, que és aquesta que estem veient, l'Aronada.
+
+79
+00:05:16,560 --> 00:05:18,961
+Això m'hauràs d'explicar què és perquè jo no veig res.
+
+80
+00:05:18,981 --> 00:05:23,564
+I em va captivar perquè això és una partitura escrita per ell i ell es va inventar una manera d'escriure partitures.
+
+81
+00:05:24,115 --> 00:05:25,696
+És a dir, això és una partitura musical.
+
+82
+00:05:25,756 --> 00:05:26,856
+És una partitura musical.
+
+83
+00:05:26,896 --> 00:05:27,856
+Per ordinador.
+
+84
+00:05:27,916 --> 00:05:28,436
+Visual.
+
+85
+00:05:28,516 --> 00:05:29,857
+No necessàriament és per ordinador.
+
+86
+00:05:29,897 --> 00:05:33,178
+El que passa és que ara se n'han fet reinterpretacions per ordinador.
+
+87
+00:05:33,258 --> 00:05:42,141
+És, si us hi fixeu, hi ha cercles, cada cercle seria un instrument, per dir-ho així, i llavors tu vas donant voltes i segueix una seqüència.
+
+88
+00:05:42,581 --> 00:05:50,124
+Els músics o l'ordinador, igual que fos, interpretaria diferent en funció del que hi ha a cada casella.
+
+89
+00:05:51,115 --> 00:05:56,963
+Llavors, clar, el músic que està més a fora va més lent que el de dins.
+
+90
+00:05:57,003 --> 00:05:58,165
+A mi això va captivant.
+
+91
+00:05:58,185 --> 00:05:59,406
+De fet, està al CCB, es pot veure.
+
+92
+00:05:59,426 --> 00:06:01,569
+I això ho venen com a obra d'art, aquesta partitura.
+
+93
+00:06:01,629 --> 00:06:04,033
+Sí, sí, això està considerat una obra d'art.
+
+94
+00:06:04,073 --> 00:06:07,417
+Llavors, seguint aquest fil de...
+
+95
+00:06:09,070 --> 00:06:12,993
+de l'art que es pot veure i escoltar.
+
+96
+00:06:13,894 --> 00:06:22,620
+El dissabte vaig tenir la sort d'anar a l'inauguració d'una exposició de Playmodes del Santi Vilanova.
+
+97
+00:06:22,760 --> 00:06:28,704
+Ell és artista visual i músic, és un artistàs que flipes.
+
+98
+00:06:29,675 --> 00:06:40,239
+I era una exposició monogràfica a Emposta, a un lloc que es diu Lopati, que està, a més, ho tinc apuntat, està fins als Aneus i que si algú passa per allà per Emposta la pot anar a veure.
+
+99
+00:06:40,319 --> 00:06:45,342
+Ell al confinament, bueno, ens ho va estar explicant, al confinament va començar a fer dibuixos
+
+100
+00:06:47,410 --> 00:06:55,875
+com amb un ploter d'aquests, o sigui, dibuixos generatius amb computació, amb un ploter, va començar a fer uns dibuixos rodons com això que veiem.
+
+101
+00:06:55,895 --> 00:06:56,956
+Això ho ha fet ella?
+
+102
+00:06:57,056 --> 00:06:58,817
+Sí.
+
+103
+00:06:58,877 --> 00:07:04,721
+Aquests dibuixos que ara són per ordinador els va començar a imprimir i, bueno, a mi això, a què et recorda això?
+
+104
+00:07:04,741 --> 00:07:05,801
+Això ho veig una mica a Kandinsky.
+
+105
+00:07:05,862 --> 00:07:06,482
+Kandinsky, no?
+
+106
+00:07:06,502 --> 00:07:07,843
+Tens a veure massa d'art però m'hi recorda.
+
+107
+00:07:07,863 --> 00:07:10,464
+Sí, sí, jo, o sigui, només veure, dius Kandinsky.
+
+108
+00:07:10,524 --> 00:07:14,147
+Kandinsky a més deia que les seves obres es podien escoltar, ell les escoltava.
+
+109
+00:07:15,001 --> 00:07:16,241
+Sí, és veritat.
+
+110
+00:07:16,301 --> 00:07:26,765
+I llavors, amb aquesta idea de Kandinsky, de fet el Santi em va explicar que ell era molt fan de Kandinsky, va dir, pues ostres, és que jo això que estic fent aquí al confinament, això també es pot escoltar.
+
+111
+00:07:26,825 --> 00:07:33,587
+I llavors es va començar a inventar un programa, que és això, que aquí són els primers passos, no?
+
+112
+00:07:33,647 --> 00:07:40,350
+Ell li posa una línia, llavors tots els dibuixos que passen per la línia generen un so.
+
+113
+00:07:40,410 --> 00:07:41,390
+Mira, això ja és molt més gran.
+
+114
+00:07:43,047 --> 00:07:52,524
+Llavors, en funció de la luminància de la línia o del gruix, el gruix de la línia és més fort, si està més amunt és més agut, si està més a baix és més greu...
+
+115
+00:07:53,628 --> 00:08:00,090
+Això segueix, aquí no hi ha intel·ligència artificial encara, això segueix sent art generatiu, per dir-ho així.
+
+116
+00:08:00,130 --> 00:08:02,691
+Vols dir que hi ha un programa que ho fa, perquè ens entenguem.
+
+117
+00:08:02,711 --> 00:08:10,233
+Hi ha un programa que ho fa i a més té un punt d'aleatorietat, que aquesta és la gràcia de l'art generatiu, que es va generant sobre la marxa.
+
+118
+00:08:10,253 --> 00:08:16,195
+Sí que pot tenir unes regles, com aquí que està quantitzada harmònicament perquè no sigui dissonant i així.
+
+119
+00:08:16,595 --> 00:08:25,397
+Tenim un exemple que podem escoltar i veure perquè el centre ha arribat a compondre mitjançant partitures visuals obres que s'han interpretat en quartets de corda.
+
+120
+00:08:25,437 --> 00:08:26,057
+Anem a veure-ho.
+
+121
+00:08:46,632 --> 00:08:49,235
+Això que estem veient, Xavi?
+
+122
+00:08:49,575 --> 00:08:57,603
+És el mateix concepte d'abans, però en comptes de ser un ordinador el que interpreta tots aquests dibuixos, totes aquestes línies, són músics.
+
+123
+00:08:58,630 --> 00:08:59,711
+Són músics en directe.
+
+124
+00:08:59,751 --> 00:09:01,552
+Sí, sí, són músics en directe.
+
+125
+00:09:01,592 --> 00:09:07,797
+De fet, hi va haver una obra que és un piano que toca, que va estar al Liceu, va tocar al Liceu.
+
+126
+00:09:07,857 --> 00:09:12,060
+Si us fixeu, tot té relació amb el que estan tocant, té relació amb el que es veu.
+
+127
+00:09:12,080 --> 00:09:25,650
+Llavors ell em va explicar que primer fa una sessió amb els músics i els explica, quan veieu un color així heu de tocar així, més amunt més agut, més baix més greu, i amb aquestes quatre regles bàsiques els hi posa i toquen.
+
+128
+00:09:26,558 --> 00:09:27,858
+Pé de gallina.
+
+129
+00:09:27,938 --> 00:09:30,839
+Em sembla impressionant.
+
+130
+00:09:30,879 --> 00:09:32,980
+No, no, és que és molt curiós.
+
+131
+00:09:33,040 --> 00:09:37,681
+Bé, encara vols avançar un pas més, perquè aquí ja podem afegir-li la intel·ligència artificial.
+
+132
+00:09:37,741 --> 00:09:41,583
+Sí, anem a... Bé, fins aquí ningú dubta que això és art, no?
+
+133
+00:09:41,603 --> 00:09:43,783
+Hi ha molta feina al darrere i tal.
+
+134
+00:09:43,823 --> 00:09:46,804
+Què passa quan anem a la intel·ligència artificial?
+
+135
+00:09:46,824 --> 00:09:48,004
+Que qualsevol pot ser artista?
+
+136
+00:09:48,044 --> 00:09:49,245
+Bé, jo penso que no.
+
+137
+00:09:49,265 --> 00:09:50,385
+Això és un debat interessant.
+
+138
+00:09:50,445 --> 00:09:52,246
+Clar.
+
+139
+00:09:52,306 --> 00:09:53,806
+Pinta amb un dalí.
+
+140
+00:09:53,846 --> 00:09:54,847
+Sóc artista, he fet un dalí.
+
+141
+00:09:54,887 --> 00:09:55,987
+No, no ets artista.
+
+142
+00:09:56,427 --> 00:10:00,028
+Llavors, aquí també hi ha temes d'ètica, no?
+
+143
+00:10:00,068 --> 00:10:08,492
+Bueno, vaig coincidir, vam fer una ponència un dia a unes jornades, vaig coincidir amb l'Ariel Gersenbach, sempre em costa dir el seu cognom, que per cert és badaloní.
+
+144
+00:10:08,512 --> 00:10:09,512
+Que és autor d'aquest llibre?
+
+145
+00:10:09,572 --> 00:10:16,495
+És autor d'aquest llibre, que, bueno, ell és doctor en ètica del disseny, i és autor d'aquest llibre que és un dels més venuts a l'Amazon d'Estats Units.
+
+146
+00:10:16,575 --> 00:10:18,116
+És, bueno, és una eminència.
+
+147
+00:10:18,156 --> 00:10:19,236
+Doncs trobo que ho podríem convidar, no?
+
+148
+00:10:19,256 --> 00:10:19,836
+Sí, convidem-lo.
+
+149
+00:10:19,856 --> 00:10:22,297
+Ho podríem entrevistar un dia, veuràs d'ajudar a fer-li les preguntes.
+
+150
+00:10:22,377 --> 00:10:23,678
+Sí, però no, no, sí, sí.
+
+151
+00:10:23,698 --> 00:10:24,278
+De fet, de fet,
+
+152
+00:10:24,338 --> 00:10:35,948
+És que el vaig trucar per dir-li, escolta, que et citaré i tal, i li vaig dir, seria superinteressant, perquè a més l'ètica, amb el tema de la intel·ligència artificial, és una cosa que, o sigui, està a l'ordre del dia i s'ha de tractar.
+
+153
+00:10:35,968 --> 00:10:39,050
+Ah, perquè a més t'he entès, tu podries dir que aquest llibre és un llibre molt venut.
+
+154
+00:10:39,110 --> 00:10:46,797
+Aquest llibre és superbenut, aquest en concret no va a la intel·ligència artificial, però bueno, és sobre el disseny, jo et dic, top a Amazon, llibres.
+
+155
+00:10:46,817 --> 00:10:48,898
+Llavors, parlant amb ell... Digues, digues, digues.
+
+156
+00:10:48,958 --> 00:10:51,601
+No, parlant amb ell a les jornades aquestes que ens vam trobar, a l'hora del cafè i tal,
+
+157
+00:10:52,081 --> 00:10:58,427
+Jo li vaig plantejar el tema allà, perquè ell té una visió que no tenim nosaltres, sobre la ètica.
+
+158
+00:10:58,447 --> 00:11:01,530
+Ell s'ha plantejat tots els dubtes que pots tenir.
+
+159
+00:11:01,550 --> 00:11:05,434
+Jo li deia, com veus la intel·ligència artificial i l'art?
+
+160
+00:11:06,543 --> 00:11:10,548
+I bueno, vam parlar sobre la notícia aquesta.
+
+161
+00:11:10,788 --> 00:11:17,756
+Sí, una polèmica que va haver-hi perquè va ser una fotografia feta amb intel·ligència artificial que va guanyar un concurs de fotografia.
+
+162
+00:11:17,816 --> 00:11:21,981
+I el guanyador després va dir ho he fet amb intel·ligència artificial.
+
+163
+00:11:22,321 --> 00:11:27,405
+que és aquesta que esteu veient, clar, és que és impossible saber que qui s'ho ha fet d'un generador, que aquí està el debat ètic.
+
+164
+00:11:27,465 --> 00:11:29,927
+Clar, doncs, què em va dir l'Ariel?
+
+165
+00:11:30,347 --> 00:11:42,956
+L'Ariel em va dir, aquí no hi ha cap problema ètic, perquè aquest senyor era fotògraf, aquest senyor sabia què estava fent, i, bueno, en comptes de fer servir una càmera, va fer servir la intel·ligència artificial.
+
+166
+00:11:43,837 --> 00:11:45,999
+Si hi ha més capes, no?
+
+167
+00:11:46,060 --> 00:11:46,840
+Hi ha problema ètic?
+
+168
+00:11:46,900 --> 00:11:47,561
+Home, pot haver-hi.
+
+169
+00:11:47,601 --> 00:11:53,568
+Igual que pot haver-hi si la càmera que estàs fent servir té components que ara els han fet nens esclaus a Bangladesh.
+
+170
+00:11:54,149 --> 00:11:58,974
+La intel·ligència artificial, si s'ha alimentat amb fons que no són legals, pot haver-hi un problema ètic, però...
+
+171
+00:11:59,615 --> 00:12:03,839
+A la capa de dalt, diguem que no hi ha problema ètic perquè el tio sap què està fent.
+
+172
+00:12:03,859 --> 00:12:08,403
+Anem a veure les següents imatges, perquè hem d'anar començant a cap avall, vull arribar on vols arribar tu.
+
+173
+00:12:08,423 --> 00:12:12,266
+Anem a veure les següents imatges, explica'm què és això que estem veient.
+
+174
+00:12:12,286 --> 00:12:18,972
+Això és d'un artista francès, però afincat a Barcelona, que es diu Gabriel Lecoup.
+
+175
+00:12:20,337 --> 00:12:27,483
+A mi aquest m'agrada molt perquè està fet d'intel·ligència artificial o la intel·ligència artificial ha sigut una eina però el resultat al final és un paper.
+
+176
+00:12:27,563 --> 00:12:31,065
+I m'agradaria que ho expliqués ell, que ho explica molt millor.
+
+177
+00:12:31,085 --> 00:12:31,646
+Ah, sí, és veritat.
+
+178
+00:12:31,666 --> 00:12:34,468
+Tenim fragment de l'artista explicant aquesta obra.
+
+179
+00:12:34,628 --> 00:12:37,810
+Anem a veure-ho, a escoltar-lo.
+
+180
+00:12:37,891 --> 00:12:46,337
+Bueno, el proyecto empieza porque yo no sé dibujar las manos y la inteligencia artificial tampoco sabe.
+
+181
+00:12:46,417 --> 00:12:48,699
+Entonces decidimos entrenarnos juntos.
+
+182
+00:12:49,565 --> 00:13:09,971
+buscamos las posibilidades expresivas de las manos, de la pintura rupestre al flamenco, o la lectura del futuro en las palmas de las manos, y ahí hemos descubierto que la lengua de signos fue inventada en 1620 por Juan Pablo Bonet en Aragón.
+
+183
+00:13:10,031 --> 00:13:16,053
+Él creó ocho láminas de grabado que representaban el alfabeto para sordomudos.
+
+184
+00:13:17,122 --> 00:13:25,045
+Estos 8 grabados los he alimentado a una IA que me ha devuelto 8 variaciones.
+
+185
+00:13:25,065 --> 00:13:32,747
+Y estas 8 variaciones las he grabado en tacos de linoleo, como ven aquí.
+
+186
+00:13:32,807 --> 00:13:41,430
+Y bueno, recién hoy salen de la imprenta de Printmaking Barcelona y han quedado guapísimos.
+
+187
+00:13:41,470 --> 00:13:44,911
+Aquí pueden ver, recién salido de la prensa.
+
+188
+00:13:49,927 --> 00:13:53,210
+Doncs així és com l'artista explica aquesta obra que ets tu.
+
+189
+00:13:53,230 --> 00:13:54,171
+Sí, a mi em sembla brillant.
+
+190
+00:13:54,231 --> 00:13:55,572
+Sí, sí, és molt curiós.
+
+191
+00:13:55,652 --> 00:14:08,204
+Perquè a més, precisament és això, que us en recordeu, ara ja tot això ha millorat, però al principi de poder generar persones amb intel·ligència artificial sortien les mans rares, i veure això i mirar, mirar quines mans.
+
+192
+00:14:08,224 --> 00:14:09,746
+Home, rares també ho són, eh?
+
+193
+00:14:09,806 --> 00:14:10,446
+Sí, sí, per això, per això.
+
+194
+00:14:11,172 --> 00:14:13,673
+No, no, a mi em sona brillant aquesta.
+
+195
+00:14:13,753 --> 00:14:16,213
+Xavi, hem d'acabar i hem d'acabar.
+
+196
+00:14:16,273 --> 00:14:20,714
+I sí que aquí depèn d'una part important, que és la part de l'obvi, que és això que vau fer.
+
+197
+00:14:20,734 --> 00:14:22,295
+Vols que ho deixi per un altre dia?
+
+198
+00:14:22,315 --> 00:14:23,575
+Bueno, ho podem deixar per un altre dia, segur.
+
+199
+00:14:23,635 --> 00:14:23,915
+Sí?
+
+200
+00:14:23,935 --> 00:14:26,696
+I ens ho expliques més detingudament en allò que heu fet.
+
+201
+00:14:26,716 --> 00:14:31,557
+Perquè a més he fet un experiment que m'hauria encantat veure'l amb les nostres cares perquè veiéssiu una mica què és el que estem fent.
+
+202
+00:14:31,777 --> 00:14:34,843
+que és el que està fent el Xavi Naixa amb un altre madraoní, Mario Tarragó, oi?
+
+203
+00:14:34,883 --> 00:14:38,469
+Sí, el Mario Tarragó i amb el Legarto, Josep Castià.
+
+204
+00:14:38,489 --> 00:14:41,976
+Que ho han fet i de fet van visitar-lo la setmana passada, però no tenim més temps.
+
+205
+00:14:41,996 --> 00:14:45,022
+I la poetisa d'Eva Ibernia, que és molt bona.
+
+206
+00:14:45,082 --> 00:14:47,005
+Bé, Xavi, gràcies per fer-nos aquest viatge.
+
