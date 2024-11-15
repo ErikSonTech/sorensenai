@@ -35,6 +35,9 @@ La traducció resultant ha de tenir en compte el context, les frases anteriors i
 
 Com a punt de partida es pot usar el notebook d'aquest repo [traductor.ipynb](traductor.ipynb)
 
+**Important**
+Fer-ho amb el menor número de crides possibles. Com a dada, es pot resoldre amb una sola crida. Seria acceptable fer-ho **amb 5 o menys crides**.
+
 Et proporcionarem una API Key d'OpenAI.
 
 Un cop finalitzat, envia'ns un zip amb el codi i els fitxers srt resultants.
