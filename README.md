@@ -1,5 +1,7 @@
 # Pre requisits
 
+# Instal·lar anaconda
+
 ## Crear entorn i instal·lar dependències
 
 ```bash
